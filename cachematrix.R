@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Cache potentially time-consuming computations
 
 ## Create a special "matrix" object that can cache its inverse
 

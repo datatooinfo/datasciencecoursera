@@ -12,7 +12,7 @@ spFeatures  Created file. Subset of features.txt maintaining variable names as a
 
 names  Process of converting variable names for files X_test and X_train using the vector created in spFeatures. The variable name for SubjectTest and SubjectTrain are converted to "Subject”.
  
-X_test_combine Created file. Combines SubjectTest and X_test into one data set.
+X_test_combine  Created file. Combines SubjectTest and X_test into one data set.
 
 X_train_combine Created file. Combines SujectTrain and X_train into one data set.
 

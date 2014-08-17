@@ -1,4 +1,6 @@
-X_test     Input file X_test.txt. Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
+X_test     
+Input file 
+X_test.txt. Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
 X_train    Input file X_train.txt. Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
